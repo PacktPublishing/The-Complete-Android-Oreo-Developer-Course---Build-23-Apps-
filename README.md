@@ -32,7 +32,3 @@ This course targets anyone who wants to be an app developer. This is a complete 
 
 * [The Complete React Js and Redux Course - Build Modern Web Apps [Video]](https://www.packtpub.com/web-development/complete-react-js-and-redux-course-build-modern-web-apps-video?utm_source=github&utm_medium=repository&utm_campaign=9781789950656)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789618099">https://packt.link/free-ebook/9781789618099 </a> </p>
